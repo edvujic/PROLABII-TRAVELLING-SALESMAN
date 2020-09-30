@@ -1,0 +1,12 @@
+1. yol : [Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, Bursa, Bilecik, Eskisehir, Ankara, Bolu, Sakarya, Kocaeli, ]
+Uzakl?k : 1648
+2. yol : [Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, Sakarya, Bolu, Ankara, Eskisehir, Bilecik, Bursa, Kocaeli, ]
+Uzakl?k : 1648
+3. yol : [Kocaeli, Bursa, Bilecik, Eskisehir, Ankara, Bolu, Sakarya, Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, ]
+Uzakl?k : 1648
+4. yol : [Kocaeli, Sakarya, Bolu, Ankara, Eskisehir, Bilecik, Bursa, Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, ]
+Uzakl?k : 1648
+5. yol : [Kocaeli, Bursa, Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, Sakarya, Bolu, Ankara, Bolu, Sakarya, Kocaeli, ]
+Uzakl?k : 1712
+6. yol : [Kocaeli, Sakarya, Bolu, Ankara, Bolu, Sakarya, Kocaeli, Istanbul, Tekirdag, Edirne, Tekirdag, Istanbul, Kocaeli, Bursa, Kocaeli, ]
+Uzakl?k : 1712
